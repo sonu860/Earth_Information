@@ -1,7 +1,10 @@
 langchain
 langchain-core
 langchain-embeddings
-langchain-schema
 langchain-vectorstores
 python-dotenv
 langchain-google-genai
+streamlit
+langchain-classic
+langchain-atradb
+
